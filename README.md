@@ -1,11 +1,11 @@
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Thanks for visting my profile.
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hey! Thanks for visting my profile.
 
 
 It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :camera: from <img src="https://cdn-icons-png.flaticon.com/512/555/555609.png" width="15"/> <b>Cork, Ireland</b>.</p>
 
  ## About Me:
  
- Currently working at <img src="https://cdn-icons-png.flaticon.com/512/5969/5969083.png" width="15"/>
+ Currently working at <img src="https://cdn-icons-png.flaticon.com/512/5969/5969083.png" width="50"/>
 
 - 🌱 I’m currently learning Web Development.
 - 💬 Ask me about tech in general or Webdevelopment.
