@@ -42,4 +42,8 @@ It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### GitHub Stats
-https://github-readme-stats.vercel.app/api?username=rubelsarker0&theme=highcontrast&show_icons=true&count_private=true
+
+<img src="https://github-readme-stats.vercel.app/api?username=rubelsarker0&theme=highcontrast&show_icons=true&count_private=true"/>
+
+
+
