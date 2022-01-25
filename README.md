@@ -18,7 +18,7 @@ It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)](https://www.linkedin.com/in/rubelsarker/)
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=00acee&labelColor=000000)](https://twitter.com/rubelsarker0)
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&message=Instagram&label=&color=E1306C&labelColor=000000)](https://www.instagram.com/rubelsarker0/)
-[![Facebook](https://img.shields.io/static/v1?style=for-the-badge&logo=facebook&message=Facebook&label=&color=2867B2&labelColor=000000)](http://www.facebook.com/rubelsarker8)
+[![Facebook](https://img.shields.io/static/v1?style=for-the-badge&logo=facebook&message=Facebook&label=&color=0e95f5&labelColor=000000)](http://www.facebook.com/rubelsarker8)
 
 
 ### Languages and Tools:
