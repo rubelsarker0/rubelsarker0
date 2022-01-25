@@ -5,7 +5,7 @@ It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :
 
  ## About Me:
  
- Currently working at <img src="https://cdn-icons-png.flaticon.com/512/555/555609.png" width="15"/>
+ Currently working at <img src="https://cdn-icons-png.flaticon.com/512/5969/5969083.png" width="15"/>
 
 - 🌱 I’m currently learning Web Development.
 - 💬 Ask me about tech in general or Webdevelopment.
