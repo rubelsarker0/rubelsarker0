@@ -15,14 +15,10 @@ It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :
 # Let's talk
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]()
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubelsarker/)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)](https://www.linkedin.com/in/rubelsarker/)
+[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=00acee&labelColor=000000)](https://twitter.com/rubelsarker0)
+[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&message=Instagram&label=&color=E1306C&labelColor=000000)](https://www.instagram.com/rubelsarker0/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](http://www.facebook.com/rubelsarker8)
-
-## How to reach me:
-
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)][linkedin]
-[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=00acee&labelColor=000000)][twitter]
-[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&message=Instagram&label=&color=E1306C&labelColor=000000)][instagram]
 
 
 ### Languages and Tools:
