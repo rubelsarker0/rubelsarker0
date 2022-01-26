@@ -3,7 +3,7 @@
 
  ## :book: About Me
 
-It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :camera: from <b>Cork, Ireland.</b><img src="https://cdn-icons-png.flaticon.com/512/555/555609.png" width="15"/></p>
+It's <b><i>Rubel Sarker</i></b>, Software Engineer and Passionate photographer :camera: from <b>Ireland.</b><img src="https://cdn-icons-png.flaticon.com/512/555/555609.png" width="15"/></p>
  
 - 💻 Currently working at <a href="https://www.ibm.com/ie-en">IBM</a>.
 - 💼 Founder of <a href="https://www.facebook.com/WITphotographysociety/">WIT Photography Society</a>.
