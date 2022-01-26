@@ -1,18 +1,20 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hey! Thanks for visting my profile.
 
 
-It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :camera: from <img src="https://cdn-icons-png.flaticon.com/512/555/555609.png" width="15"/> <b>Cork, Ireland</b>.</p>
+
 
  ## About Me:
- 
- Currently working at <img src="https://cdn-icons-png.flaticon.com/512/5969/5969083.png" width="50"/>
 
+It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :camera: from <img src="https://cdn-icons-png.flaticon.com/512/555/555609.png" width="20"/> <b>Cork, Ireland</b>.</p>
+ 
+- 💻 Currently working at IBM
 - 🌱 I’m currently learning Web Development.
 - 💬 Ask me about tech in general or Webdevelopment.
 - 🥅 All Time Goal: keep learning...
 
 
 ## Let's talk
+
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=GitHub&label=&color=34495e&labelColor=000000)](https://www.linkedin.com/in/rubelsarker/)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)](https://www.linkedin.com/in/rubelsarker/)
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=00acee&labelColor=000000)](https://twitter.com/rubelsarker0)
