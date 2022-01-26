@@ -59,9 +59,9 @@ It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :
 
 ## GitHub Stats
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=rubelsarker0&show_icons=true&theme=radical&line_height=25">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rubelsarker0&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<p align = "left">
+  <img width="47%"  src = "https://github-readme-stats.vercel.app/api?username=rubelsarker0&show_icons=true&theme=radical&line_height=25">
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=rubelsarker0&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
 <p align = "center">
