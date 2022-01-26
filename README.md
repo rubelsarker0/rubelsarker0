@@ -1,11 +1,9 @@
-## <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/> Hey! Thanks for visting my profile.
-
-
+## <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/> Hey! Hey! thanks for visiting my profile...!!!
 
 
  ## About Me:
 
-It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :camera: from <img src="https://cdn-icons-png.flaticon.com/512/555/555609.png" width="20"/> <b>Cork, Ireland</b>.</p>
+It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :camera: from <img src="https://cdn-icons-png.flaticon.com/512/555/555609.png" width="10"/> <b>Cork, Ireland</b>.</p>
  
 - 💻 Currently working at IBM
 - 🌱 I’m currently learning Web Development.
