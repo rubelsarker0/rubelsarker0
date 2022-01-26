@@ -1,11 +1,12 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/> Hello there, thanks for visiting my profile...!!!
 
 
- ## About Me:
+ ## :book: About Me:
 
 It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :camera: from <b>Cork, Ireland.</b><img src="https://cdn-icons-png.flaticon.com/512/555/555609.png" width="15"/></p>
  
 - 💻 Currently working at IBM
+- 
 - 🌱 I’m currently learning Web Development.
 - 💬 Ask me about tech in general or Webdevelopment.
 - 🥅 All Time Goal: keep learning...
