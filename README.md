@@ -1,4 +1,4 @@
-## <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/> Hey! Hey! thanks for visiting my profile...!!!
+## <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/> Hello there, thanks for visiting my profile...!!!
 
 
  ## About Me:
