@@ -1,7 +1,7 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/> Hello there, thanks for visiting my profile...!!!
 
 
- ## :book: About Me:
+ ## :book: About Me
 
 It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :camera: from <b>Cork, Ireland.</b><img src="https://cdn-icons-png.flaticon.com/512/555/555609.png" width="15"/></p>
  
@@ -13,8 +13,6 @@ It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :
 
 
 ## Let's talk
-
-
 [![Profile](https://img.shields.io/static/v1?style=for-the-badge&logo=anaconda&message=Profile&label=&color=120E43&labelColor=000000)](https://www.linkedin.com/in/rubelsarker/)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=GitHub&label=&color=34495e&labelColor=000000)](https://www.linkedin.com/in/rubelsarker/)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)](https://www.linkedin.com/in/rubelsarker/)
