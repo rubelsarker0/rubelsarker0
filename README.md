@@ -5,8 +5,8 @@
 
 It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :camera: from <b>Cork, Ireland.</b><img src="https://cdn-icons-png.flaticon.com/512/555/555609.png" width="15"/></p>
  
-- 💻 Currently working at IBM
-- 
+- 💻 Currently working at <a href="https://www.ibm.com/ie-en">IBM</a>.
+- 💼 Founder of <a href="https://www.facebook.com/WITphotographysociety/">WIT Photography Society</a>.
 - 🌱 I’m currently learning Web Development.
 - 💬 Ask me about tech in general or Webdevelopment.
 - 🥅 All Time Goal: keep learning...
