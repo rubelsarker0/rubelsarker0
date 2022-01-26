@@ -12,7 +12,7 @@ It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :
 - 🥅 All Time Goal: keep learning...
 
 
-# Let's talk
+## Let's talk
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=GitHub&label=&color=34495e&labelColor=000000)](https://www.linkedin.com/in/rubelsarker/)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)](https://www.linkedin.com/in/rubelsarker/)
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=00acee&labelColor=000000)](https://twitter.com/rubelsarker0)
@@ -42,13 +42,12 @@ It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### GitHub Stats
+## GitHub Stats
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=rubelsarker0&show_icons=true&theme=radical&line_height=25">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rubelsarker0&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
-
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=rubelsarker0&theme=redical">
