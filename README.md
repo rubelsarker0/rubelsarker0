@@ -20,7 +20,7 @@ It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :
 [![Facebook](https://img.shields.io/static/v1?style=for-the-badge&logo=facebook&message=Facebook&label=&color=0e95f5&labelColor=000000)](http://www.facebook.com/rubelsarker8)
 
 
-### Languages and Tools:
+## Languages and Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
