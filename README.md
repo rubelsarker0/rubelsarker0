@@ -3,7 +3,7 @@
 
  ## About Me:
 
-It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :camera: from <img src="https://cdn-icons-png.flaticon.com/512/555/555609.png" width="10"/> <b>Cork, Ireland</b>.</p>
+It's <b><i>Rubel Sarker</i></b>, Software Enginner and Passionate photographer :camera: from <b>Cork, Ireland</b>. <img src="https://cdn-icons-png.flaticon.com/512/555/555609.png" width="30"/></p>
  
 - 💻 Currently working at IBM
 - 🌱 I’m currently learning Web Development.
