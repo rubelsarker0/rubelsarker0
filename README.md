@@ -9,7 +9,7 @@ It's <b><i>Rubel Sarker</i></b>, Software Engineer and Passionate photographer :
 - 💼 Founder of <a href="https://www.facebook.com/WITphotographysociety/">WIT Photography Society</a>.
 - 🌱 I’m currently learning Web Development.
 - 💬 Ask me about tech in general or Webdevelopment.
-- 🥅 All Time Goal: keep learning...
+- 🥅 All time goal: Keep learning.......
 
 
 ## Let's talk
